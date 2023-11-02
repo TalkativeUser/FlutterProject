@@ -1,0 +1,72 @@
+.home{
+
+  background-image: url('https://alifouad91.com/storage/post/9sIBxL0hhyw5VCBwlBbEYtz9tlzgOqdHRaCRVAAK.jpeg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.home>h1{
+
+translate: 0px -90px;
+font-size: 50px;
+font-weight: 600;
+background-color: rgba(0, 0, 0, 0.155);
+
+}
+
+.navbar a {
+
+color: black;
+padding: 8px;
+}
+
+.active {
+
+  background-color: rgb(106, 236, 239);
+  color: white;
+  border-radius: 7px;
+}
+
+.text-description {
+
+  color: aqua!important;
+}
+
+.leyar{
+
+  overflow-y: auto;
+  background-color: rgba(0, 0, 0, 0.886);
+}
+
+.innerCol>img{
+
+width: 100%;
+height: 250px;
+cursor: pointer;
+
+}
+
+.close {
+  position: absolute;
+
+  top: 102px;
+  right:70px;
+}
+
+.img-details{
+
+width:100%;
+height: 500px;
+
+}
+
+span {
+
+  background-color: rgba(255, 255, 255, 0.723);
+}
+
+.text-details{
+
+
+  flex-direction: column;
+  justify-content: space-around;
+}
