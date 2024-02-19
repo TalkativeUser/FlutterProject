@@ -20,6 +20,8 @@ export default function Home() {
 
 
   </div>
+
+  <img src="https://i.imgur.com/k1TJm3X.jpg" alt="" />
   </>
 
 }
